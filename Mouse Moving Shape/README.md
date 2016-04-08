@@ -11,4 +11,4 @@
 - StarShape: To create a start shape
 
 
-![](/MoveTheComponent.jpg)
+![](MoveTheComponent.jpg)
